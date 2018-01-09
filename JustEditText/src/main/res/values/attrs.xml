@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JustEditText">
+
+        <!--删除按钮资源ID-->
+        <attr name="ic_delete" format="reference" />
+
+        <!--删除按钮横轴起点-->
+        <attr name="delete_x" format="dimension" />
+
+        <!--删除按钮竖轴起点-->
+        <attr name="delete_y" format="dimension" />
+
+        <!--删除按钮宽度-->
+        <attr name="delete_width" format="dimension" />
+
+        <!--删除按钮高度-->
+        <attr name="delete_height" format="dimension" />
+
+        <!--左侧图标点击状态资源ID-->
+        <attr name="ic_left_click" format="reference" />
+
+        <!--左侧图标没有点击状态资源ID-->
+        <attr name="ic_left_unclick" format="reference" />
+
+        <!--距离左边距离-->
+        <attr name="left_x" format="dimension" />
+
+        <!--距离右边距离-->
+        <attr name="left_y" format="dimension" />
+
+
+        <attr name="left_width" format="dimension" />
+        <attr name="left_height" format="dimension" />
+
+        <attr name="lineColor_click" format="color" />
+        <attr name="lineColor_unclick" format="color" />
+        <attr name="linePosition" format="dimension" />
+
+        <attr name="cursor" format="reference" />
+
+    </declare-styleable>
+</resources>
