@@ -96,6 +96,14 @@
 
 6.自定义属性如下：自定义EditText：属性如下：暂不支持代码动态设置
 
+已上传到`jitpack`添加如下依赖即可使用：
+
+```
+dependencies {
+	  compile 'com.github.ALguojian:justedittext:1.0'
+}
+```
+
 ![095196333906964CCD876CAFFFCDA3C8.jpg](http://upload-images.jianshu.io/upload_images/7426378-3b6bab896f6a2891.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ```
